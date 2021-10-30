@@ -1,0 +1,32 @@
+body{
+  background-color:lavender;
+}
+img{
+  background-color:mediumpurple;
+}
+p{
+  background-color: lightcyan;
+  text-align:center;
+}
+
+hr{
+  width:15%;
+  border:none;
+  border-top: 8px dotted;
+  border-color: lightcyan;
+}
+hr:hover{
+  border-color: mediumpurple;
+}
+.btn {
+  height:50px;
+  width: 80px;
+  background-color: mediumpurple;
+  border-radius: 10px;
+  color:lavender;
+  font-size: 1.3em;
+}
+.btn:hover{
+  background-color: lavender;
+  color:mediumpurple;
+}

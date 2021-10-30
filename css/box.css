@@ -1,0 +1,25 @@
+/*  esto es un comentario */
+*{
+  margin: 0;
+}
+.arriba{
+  border: 5px solid;
+  background-color: salmon;
+  width: 200px;
+  height: 200px;
+}
+.medio{
+  border: 5px solid;
+  background-color: lavender;
+  width: 200px;
+  height: 200px;
+  margin-left: 210px;
+}
+
+.abajo{
+  border: 5px solid;
+  background-color: darkseagreen;
+  width: 200px;
+  height: 200px;
+  margin-left: 420px;
+}

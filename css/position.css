@@ -1,0 +1,68 @@
+body{
+  font-size: 1.2em;
+}
+a{
+  width: 50px;
+  display: inline-block;
+}
+.container{
+  position: relative;
+  background-color: #F6D7A7;
+  width: 600px;
+  height: 600px;
+  display: inline-block;
+}
+span{
+  color:grey;
+  font-weight: bold;
+  font-family: 'Wallpoet', cursive;
+}
+
+
+.salmon{
+  background-color: salmon;
+  width: 500px;
+  height: 100px;
+  position:absolute;
+  right: 50px;
+  bottom: 100px;
+  vertical-align: middle;
+  border-radius: 50px;
+  -webkit-box-shadow: 4px 7px 47px 20px rgba(0,0,0,0.43);
+  box-shadow: 4px 7px 47px 20px rgba(0,0,0,0.43);
+}
+.salmon p {
+  display: inline;
+  position:relative;
+  top:10px;
+  right: 10px;
+  font-family: 'Montserrat', sans-serif;
+
+}
+.salmon img{
+  float: left;
+  margin: 5px;
+  margin-right: 10px;
+}
+
+
+.lavanda{
+  text-align: center;
+  background-color: lavender;
+  width: 100px;
+  height: 100px;
+  position:absolute;
+  left: 100px;
+  top: 50px;
+}
+.verde{
+  background-color: palegreen;
+  width: 200px;
+  height: 200px;
+  position: fixed;
+  top: 0;
+  right: -100px;
+}
+p{
+font-family: 'Wallpoet', cursive;
+}
